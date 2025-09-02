@@ -1,0 +1,62 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# ART/Dalvik VM files
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+local.properties
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+.gradle/
+
+.gradle/
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (API keys, etc.)
+google-services.json
+
+# NDK
+obj/
+
+# Misc
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Learning XML</string>
+
+    <string name="unknown_error">UNEXPECTED ERROR, TRY AGAIN</string>
+</resources>
