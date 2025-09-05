@@ -1,4 +1,4 @@
-package com.losmoviles.androidlearningxml
+package com.losmoviles.androidlearningxml.ejercicios
 
 fun main() {
 //    ej1(n = 4)
