@@ -1,10 +1,11 @@
-package com.losmoviles.androidlearningxml
+package com.losmoviles.androidlearningxml.ejercicios
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.losmoviles.androidlearningxml.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

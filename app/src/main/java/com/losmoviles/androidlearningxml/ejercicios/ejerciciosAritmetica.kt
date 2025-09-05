@@ -11,7 +11,15 @@ fun main() {
 //    ej8(22,1,48)
 //    ej9(10,5)
 //    ej11(6,2,3)
-    ej12("123456789!*Ml")
+//    ej12("123456789!*Ml")
+    val morningNotification = 51
+    val eveningNotification = 142
+
+    printNotificationSummary(morningNotification)
+    println("")
+    printNotificationSummary(eveningNotification)
+
+
 }
 
 
@@ -160,5 +168,15 @@ fun ej12(password: String){
     }
     else{
         println("password insegura!")
+    }
+}
+
+fun printNotificationSummary(numberOfMessages: Int){
+
+    if (numberOfMessages < 100){
+        print("la cantidad de notificaciones es: $numberOfMessages")
+    }
+    else{
+        print("Tu celular tiene demasiadas notificaciones pendientes: Asciende a +99 notificaciones pendientes.")
     }
 }
